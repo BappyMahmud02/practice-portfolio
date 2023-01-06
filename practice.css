@@ -70,6 +70,9 @@
     color: rgb(150, 150, 147);
     font-size: 25px;
 }
+.hr-tag{
+    width: 50%;
+}
 .btn-second{
     height: 65px;
     width: 200px;
@@ -105,20 +108,165 @@
     height: 300px;
     margin-left: 300px;
     padding-top: 40px;
+    padding-bottom: 200px;
     
 }
 .first-icon{
-    background-color: rgb(248, 208, 148);
+    background-color: rgb(241, 226, 204);
     border-radius: 20px;
     box-shadow: 5px 5px 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
 }
 .second-icon{
-    background-color: rgb(248, 208, 148);
+    background-color: rgb(243, 219, 236);
     border-radius: 20px;
     box-shadow: 5px 5px 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
 }
 .third-icon{
-    background-color: rgb(248, 208, 148);
+    background-color: rgb(192, 188, 245);
     border-radius: 20px;
     box-shadow: 5px 5px 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+}
+
+.fourth-part{
+    display: flex;
+    gap: 100px;
+}
+.text-content{
+    background: rgb(247, 239, 237);
+    border-radius: 50px;
+    margin-left: 300px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+
+}
+ .lorem-15{
+    color: rgb(73, 73, 64);
+ }
+ .btn-third{
+    height: 65px;
+    width: 250px;
+    font-weight: 700;
+    
+    background: rgb(235, 79, 17);
+    border-radius: 15px;
+    border: none;
+    font-size: 25px;
+    color: aliceblue;
+ }
+ .fourth-image{
+    height: 400px;
+    width: 500px;
+    margin-left: 140px;
+ }
+ /* fift part of my web */
+
+ .fifth-part{
+    display: flex;
+    gap: 100px;
+ }
+ .fifth-image{
+    margin-left: 300px;
+    margin-top: 150px;
+ }
+ .fift-content{
+   margin-top: 150px;
+   margin-left: 45px;
+   background-color: antiquewhite;
+   border-radius: 50px;
+   width: 500px;
+   display: flex;
+   flex-direction: column;
+   text-align: center;
+   justify-content: center;
+   align-items: center;
+   padding: 15px;
+ }
+ .btn-fourth{
+    height: 65px;
+    width: 250px;
+    font-weight: 700;
+    
+    background: rgb(235, 79, 17);
+    border-radius: 15px;
+    border: none;
+    font-size: 25px;
+    color: aliceblue;
+ }
+ /* six part of my web */
+.six-part{
+    text-align: center;
+    margin-top: 200px;
+    
+}
+.lorem-18{
+    color: rgb(139, 138, 138);
+    font-size: 20px;
+}
+.six-paragraph{
+    font-size: 60px;
+    color: rgb(11, 226, 154);
+}
+
+/* seven part of my web */
+.seven-part{
+    text-align: center;
+    margin-top: 70px;
+    background-color: rgb(248, 228, 173);
+    height: 40px;
+    width: 500px;
+    margin-left: 670px;
+    padding: 40px;
+    border-radius: 30px;
+
+}
+
+.six-button{
+    color: rgb(248, 248, 248);
+    background-color: rgb(241, 121, 8);
+    font-size: 25px;
+    border: none;
+    border-radius:30px ;
+}
+.seven-email{
+    
+    background-color: rgb(154, 155, 155);
+    font-size: 25px;
+    border-radius: 10px;
+    border: none;
+    
+}
+.eight-part{
+    text-align: center;
+    margin-top: 120px;
+    background-color: black;
+    height: 170px;
+}
+.eight-para{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(145, 3, 3);
+    padding-top: 30px;
+    
+}
+.eight-lorem-19{
+    color: aliceblue;
+    font-size: small
 }
